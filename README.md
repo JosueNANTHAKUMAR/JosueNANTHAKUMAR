@@ -34,13 +34,15 @@ Je conçois et développe des applications mobiles et web modernes, performantes
       - React Native
       <h3>🌐 Frontend</h3>
       - React (web)  
-      - JavaScript / HTML5 / CSS3
+      - JavaScript
+      - HTML5 / CSS3
     </td>
     <td valign="top" width="50%">
       <h3>⚙️ Backend & Infra</h3>
       - Node.js  
       - API REST  
-      - Supabase  
+      - Supabase
+      - Python
       <h3>🔧 Outils & Méthodes</h3>
       - Agile, gestion des habilitations, optimisation UX
     </td>
