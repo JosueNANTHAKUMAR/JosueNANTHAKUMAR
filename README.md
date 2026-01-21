@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Josué NANTHAKUMAR !
 <p align="center">
-  <strong>🚀 Développeur Web & Mobile — Étudiant en 5ᵉ année à EPITECH</strong>
+  <strong>🚀 Développeur Web & Mobile — EPITECH</strong>
 </p>
 
 <p align="center">
