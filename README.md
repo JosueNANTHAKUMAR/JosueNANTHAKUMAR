@@ -1,91 +1,60 @@
-# 👋 Salut, je suis Josué NANTHAKUMAR !
-<p align="center">
-  <strong>🚀 Développeur Web & Mobile — EPITECH</strong>
-</p>
+# Josué Nanthakumar
 
-<p align="center">
-  <a href="mailto:njosue@outlook.fr">
-    <img alt="Email" src="https://img.shields.io/badge/✉️-njosue%40outlook.fr-0066CC?style=for-the-badge&logo=mail%20ru" />
-  </a>
-  <a href="tel:+33667014515">
-    <img alt="Phone" src="https://img.shields.io/badge/📞-06%2067%2001%2045%2015-FF7A00?style=for-the-badge" />
-  </a>
-  <a href="https://portfolio-josue-two.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/🌐-Portfolio-00A86B?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/JosueNANTHAKUMAR">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JosueNANTHAKUMAR-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+**Développeur Full-Stack Web & Mobile** · React · TypeScript · Kotlin / Android · Java
 
----
+Diplômé d'EPITECH en 2026 (Bac+5, titre RNCP niveau 7). **Je recherche un CDI en Île-de-France, disponible immédiatement.**
 
-## À propos
-Je conçois et développe des applications mobiles et web modernes, performantes et centrées sur l'expérience utilisateur. J'aime transformer des idées en produits concrets, robustes et maintenables, en privilégiant la qualité du code et la collaboration avec les équipes produit et design. J'ai une expérience en développement mobile (Flutter), en intégration d'APIs, et en gestion/habilitation des accès.
+[Portfolio](https://portfolio-josue-two.vercel.app) · [LinkedIn](https://www.linkedin.com/in/josu%C3%A9-nanthakumar-aa8ab8209) · [nanthakumarjosue@gmail.com](mailto:nanthakumarjosue@gmail.com)
 
----
+## Expérience
 
-## 💻 Stack & Technologies (vue claire)
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📱 Mobile</h3>
-      - Flutter  
-      - React Native
-      <h3>🌐 Frontend</h3>
-      - React (web)  
-      - JavaScript
-      - HTML5 / CSS3
-    </td>
-    <td valign="top" width="50%">
-      <h3>⚙️ Backend & Infra</h3>
-      - Node.js  
-      - API REST  
-      - Supabase
-      - Python
-      <h3>🔧 Outils & Méthodes</h3>
-      - Agile, gestion des habilitations, optimisation UX
-    </td>
-  </tr>
-</table>
+**Développeur Full-Stack Web & Mobile, Polycea / EOVIA (groupe Polyconseil)** · mars à août 2026, stage de fin d'études
 
----
+- Applications Android (Kotlin) et web (React, TypeScript) sur une plateforme utilisée par 109 communes françaises
+- Conception et intégration d'API REST en Java, avec les équipes produit et métier
+- Pipeline CI/CD mobile mis en place de A à Z : linter, SonarQube, publication automatique de l'APK
+- Scrum, sprints de 2 semaines, code review systématique avant merge
 
-## 🏆 Expériences clés
-- **Développeur Web & Mobile — Présidence de la République (stage)**  
-  oct. 2023 — juin 2024  
-  Développement d’applications mobiles avec Flutter, intégration d’APIs, optimisation de l’UX et collaboration avec les équipes techniques/produit.
+**Développeur Web Freelance** · depuis décembre 2025
 
-- **Stagiaire IT & Habilitation — La Banque Postale**  
-  juil. 2022 — déc. 2022  
-  Gestion des habilitations et des accès, support technique, amélioration des processus IT et respect des normes de sécurité.
+- [Auto Full Services](https://autofullservices.fr) : site React / Vite et réservation en ligne en production, avec créneaux en temps réel (PostgreSQL / Supabase), e-mails de rappel, synchronisation Google Agenda et espace d'administration
+- [Paris Airports Transfers](https://parisairportstransfers.com) : site Next.js / TypeScript en production, avec réservation en 4 étapes et devis instantané
 
----
+**Développeur Mobile & Web, Présidence de la République** · octobre 2023 à juin 2024, stage
 
-## 🎓 Formation
-- **Expert en Technologies de l'Information** — EPITECH, Paris (2021–2026)  
-- **Programme d’échange** — Université Laval, Québec (2024–2025)
+- Applications mobiles multiplateformes (Flutter / Dart) pour des utilisateurs internes
 
----
+**Assistant Ingénieur IT, La Banque Postale** · juillet à décembre 2022, stage
 
-## 📫 Contact & Disponibilité
-- ✉️ Email : [njosue@outlook.fr](mailto:njosue@outlook.fr)  
-- 📞 Téléphone : [06 67 01 45 15](tel:+33667014515)  
-- 🔗 Portfolio : https://portfolio-josue-two.vercel.app/  
-- LinkedIn : Josué NANTHAKUMAR  
-- Disponible pour un stage à temps plein à partir du **2 mars** — idéalement avec perspective de CDI.
+- Automatisation de la gestion des accès (Python, PowerShell) pour plus d'une centaine de banquiers
 
----
+## Compétences
 
-## 🧰 Compétences & niveau (rapide)
-- HTML5 / CSS3 — █████████░ 85%  
-- JavaScript — ████████░░ 75%  
-- React — ████████░░ 75%  
-- Flutter — ████████░░ 75%  
-- Node.js / API REST — ███████░░░ 70%  
-- UI/UX & Méthode Agile — ███████░░░ 70%
+| Domaine | Technologies |
+| --- | --- |
+| Langages | TypeScript, JavaScript, Java, Kotlin, Dart, Python, SQL |
+| Front-end | React, Next.js, Vite, Tailwind CSS |
+| Mobile | Android (Kotlin), Flutter |
+| Back-end et données | API REST, Java, Node.js, Supabase, PostgreSQL, MySQL |
+| DevOps et qualité | Git, GitHub Actions, GitLab CI, Docker, SonarQube |
+| IA | OpenAI API, Gemini API, Vercel AI SDK |
 
----
+## Projets sur GitHub
 
-## 🌍 Langues
-- Français (natif) • Anglais (opérationnel) • Tamil
+| Projet | Description | Stack |
+| --- | --- | --- |
+| [assistant-ia](https://github.com/JosueNANTHAKUMAR/assistant-ia) | Assistant conversationnel avec réponses en streaming et historique persisté | Next.js, TypeScript, Gemini, Vercel AI SDK |
+| [CertidocsWeb](https://github.com/JosueNANTHAKUMAR/CertidocsWeb) | Signature de documents et preuve enregistrée sur la blockchain | React, ethers, wagmi |
+| [centralize](https://github.com/JosueNANTHAKUMAR/centralize) | Application mobile d'automatisation entre services | Flutter, Python, Docker |
+| [RecetteCuisine](https://github.com/JosueNANTHAKUMAR/RecetteCuisine) | Gestion de recettes avec favoris, notation et liste de courses | NestJS, Next.js, PostgreSQL, Docker |
+| [gestion-taches](https://github.com/JosueNANTHAKUMAR/gestion-taches) | Gestionnaire de tâches avec API REST et authentification JWT | Express, MySQL |
+| [myteams](https://github.com/JosueNANTHAKUMAR/myteams) | Clone de Microsoft Teams : client/serveur TCP, équipes, canaux et threads | C |
+
+## Formation
+
+- **EPITECH Paris** · 2021 à 2026 · Expert en Ingénierie Informatique, titre RNCP niveau 7 (Bac+5)
+- **Université Laval, Québec** · 2024 à 2025 · Programme d'échange, génie logiciel
+
+## Langues
+
+Français (maternelle) · Anglais (professionnel) · Tamoul (courant)
