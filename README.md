@@ -6,6 +6,20 @@ Diplômé d'EPITECH en 2026 (Bac+5, titre RNCP niveau 7). **Je recherche un CDI 
 
 [Portfolio](https://portfolio-josue-two.vercel.app) · [LinkedIn](https://www.linkedin.com/in/josu%C3%A9-nanthakumar-aa8ab8209) · [nanthakumarjosue@gmail.com](mailto:nanthakumarjosue@gmail.com)
 
+## Projet phare : Auto Full Services
+
+[![Page d'accueil du site Auto Full Services](assets/auto-full-services.png)](https://www.autofullservices.fr)
+
+Site et réservation en ligne, en production, pour un garage du Val-d'Oise : [autofullservices.fr](https://www.autofullservices.fr). J'ai géré le projet de bout en bout, du besoin du client à la mise en ligne.
+
+- Réservation avec créneaux en temps réel (PostgreSQL / Supabase)
+- E-mails de confirmation et de rappel, annulation en un clic
+- Synchronisation Google Agenda
+- Espace d'administration
+- SEO local : score PageSpeed de 100 en SEO et en accessibilité
+
+**Stack :** React, Vite, Supabase, Vercel, Google Calendar API. Le code est privé, car il s'agit d'un projet client.
+
 ## Expérience
 
 **Développeur Full-Stack Web & Mobile, Polycea / EOVIA (groupe Polyconseil)** · mars à août 2026, stage de fin d'études
@@ -17,7 +31,7 @@ Diplômé d'EPITECH en 2026 (Bac+5, titre RNCP niveau 7). **Je recherche un CDI 
 
 **Développeur Web Freelance** · depuis décembre 2025
 
-- [Auto Full Services](https://autofullservices.fr) : site React / Vite et réservation en ligne en production, avec créneaux en temps réel (PostgreSQL / Supabase), e-mails de rappel, synchronisation Google Agenda et espace d'administration
+- [Auto Full Services](https://www.autofullservices.fr) : voir le projet phare ci-dessus
 - [Paris Airports Transfers](https://parisairportstransfers.com) : site Next.js / TypeScript en production, avec réservation en 4 étapes et devis instantané
 
 **Développeur Mobile & Web, Présidence de la République** · octobre 2023 à juin 2024, stage
